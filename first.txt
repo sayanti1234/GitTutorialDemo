@@ -1,2 +1,5 @@
 This is version 1 of my project
-some changes are done and this will be trackeds
+I want this to git commit 2
+Done some changes
+writing some stuff
+learning git difference
